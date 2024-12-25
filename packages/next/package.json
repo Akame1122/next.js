@@ -244,7 +244,7 @@
     "constants-browserify": "1.0.0",
     "content-disposition": "0.5.3",
     "content-type": "1.0.4",
-    "cookie": "0.4.1",
+    "cookie": "0.7.0",
     "cross-env": "6.0.3",
     "cross-spawn": "7.0.3",
     "crypto-browserify": "3.12.0",
